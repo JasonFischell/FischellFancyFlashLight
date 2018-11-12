@@ -1,0 +1,24 @@
+Components required:
+Already Have:
+ATTiny85
+Button
+
+Need:
+5 ohm resistor 0603 .25 W x3
+100 kohm resistor 0603 0.1W x1
+1 uF capacitor 0603 x2
+Schottky diode 0603 with smallest voltage drop/power consumption possible x3
+
+Battery Holder x3
+https://www.digikey.com/product-detail/en/keystone-electronics/1025/36-1025-ND/49949
+
+TVS Diode 
+https://www.digikey.com/product-detail/en/littelfuse-inc/SMAJ5.0A/SMAJ5.0ALFCT-ND/762462
+
+Linear Regulator 3.3 V
+https://www.digikey.com/product-detail/en/diodes-incorporated/AP2120N-3.3TRG1/AP2120N-3.3TRG1DICT-ND/4505261
+
+N-Channel MOSFET
+https://www.digikey.com/product-detail/en/rohm-semiconductor/RE1C002UNTCL/RE1C002UNTCLCT-ND/5042535
+
+White led through hole (non-specific at this point) x3
