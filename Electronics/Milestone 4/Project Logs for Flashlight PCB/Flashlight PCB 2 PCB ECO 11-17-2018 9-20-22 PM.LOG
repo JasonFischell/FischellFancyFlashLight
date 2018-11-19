@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=*-3
+Removed Pin From Net: NetName=Net*_1 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=D1-1
+Added Pin To Net: NetName=Net*_3 Pin=D2-1
+Added Pin To Net: NetName=Net*_3 Pin=D3-1
+Added Net: Name=Net*_3
+Added Member To Class: ClassName=181031 Schematic with PCB Member=Component * Keystone 1025
+Added Room: Name=181031 Schematic with PCB
